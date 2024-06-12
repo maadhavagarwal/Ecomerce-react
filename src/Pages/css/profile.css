@@ -1,0 +1,41 @@
+.order{
+    height: 50px;
+  
+    
+}
+
+.Image{
+    height: 150px;
+    width: 140px;
+    margin-left: -110px;
+}
+.text{
+ margin-top: 500px;
+    margin-left: -150px;
+    width: 250px;
+    text-align: justify;
+}
+.card
+{
+width: 300px;
+height: 300px;
+column-width: 80px;
+margin-left: 150px;
+
+}
+button{
+    background-color: antiquewhite;
+    height: 50px;
+    width: 450px;
+    gap: 50px;
+    margin-top: 160px;
+    margin-left: -190px;
+    cursor: pointer;
+    border-radius: 15px;
+    
+
+}
+.OrderD{
+    text-align: center;
+    
+}
